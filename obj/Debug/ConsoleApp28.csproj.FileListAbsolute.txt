@@ -1,0 +1,7 @@
+c:\users\nemyv\documents\visual studio 2017\Projects\ConsoleApp28\ConsoleApp28\bin\Debug\ConsoleApp28.exe.config
+c:\users\nemyv\documents\visual studio 2017\Projects\ConsoleApp28\ConsoleApp28\bin\Debug\ConsoleApp28.exe
+c:\users\nemyv\documents\visual studio 2017\Projects\ConsoleApp28\ConsoleApp28\bin\Debug\ConsoleApp28.pdb
+c:\users\nemyv\documents\visual studio 2017\Projects\ConsoleApp28\ConsoleApp28\obj\Debug\ConsoleApp28.csproj.CoreCompileInputs.cache
+c:\users\nemyv\documents\visual studio 2017\Projects\ConsoleApp28\ConsoleApp28\obj\Debug\ConsoleApp28.exe
+c:\users\nemyv\documents\visual studio 2017\Projects\ConsoleApp28\ConsoleApp28\obj\Debug\ConsoleApp28.pdb
+c:\users\nemyv\documents\visual studio 2017\Projects\ConsoleApp28\ConsoleApp28\obj\Debug\ConsoleApp28.csprojResolveAssemblyReference.cache
